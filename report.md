@@ -51,12 +51,15 @@ https://github.com/starliz07/quiz-project
 
 ## 7. Скриншоты
 1. Граф коммитов (`git log --graph`)
-2. Список Pull Requests
-   <img width="493" height="209" alt="image" src="https://github.com/user-attachments/assets/db90cee3-0256-4377-a014-8e9daeca3970" />
-
-4. Момент конфликта (маркеры в README)
-5. Успешный merge
-
+   <img width="660" height="931" alt="image" src="https://github.com/user-attachments/assets/70606db4-0e9a-4602-a62e-9df97829a857" />
+   <img width="634" height="955" alt="image" src="https://github.com/user-attachments/assets/e470066a-f67e-4040-ab5a-7d98880799b6" />
+3. Список Pull Requests
+   <img width="676" height="508" alt="image" src="https://github.com/user-attachments/assets/a837b93a-538e-45e2-bf5e-d62170a6551d" />
+5. Момент конфликта (маркеры в README)
+   <img width="484" height="91" alt="image" src="https://github.com/user-attachments/assets/4d985deb-ae83-4d26-beb3-e4d2e5860118" />
+7. Успешный merge
+   <img width="656" height="138" alt="image" src="https://github.com/user-attachments/assets/5e2854aa-ad84-4c74-a067-fc03a454d601" />
+   
 ## 8. Возникшие трудности и их решение
 Трудностей не возникло, работа прошла отлично.
 
